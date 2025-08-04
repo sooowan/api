@@ -52,7 +52,7 @@
       "text": "TO-DO APP"
     },
     "desc": "리액트 프로젝트 to-do app입니다.",
-    "tags": ["React", "localStorage", "styled-components"],
+    "tags": ["React", "localStorage", "styled-components", "tailwindcss"],
     "detail": "할 일을 추가/완료/삭제 할 수 있는 todo list."
   },
   {
